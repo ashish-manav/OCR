@@ -1,0 +1,16 @@
+{
+  "name": "Labmda1",
+  "productName": "",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": "",
+  "author": {
+    "name": "Kumar, Ashish",
+    "email": "ashishkumar56@deloitte.com"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.1.0-beta.4",
+    "ask-sdk-model": "^1.4.0-beta.1"
+  }
+}

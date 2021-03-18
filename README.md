@@ -4,6 +4,6 @@
 
 S3CalloutUtilityController.cls - Class to submit attachment to AWS S3
 
-Lambda1_index.js - NodeJS file to listen to file entry in AWS S3 and pass it to textract to start processing for OCR
+Lambda1.zip - NodeJS file to listen to file entry in AWS S3 and pass it to textract to start processing for OCR
 
 Lambda2.zip - AWS deployment package for lamda which would listen to textract process complete and extract text from the document
